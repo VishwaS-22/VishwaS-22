@@ -2,7 +2,7 @@
 #### 19 Years Old Student
 DevOps Enthusiast || OpenSource Contributor || LearningInPublic || BuildingInPublic || Learning Dsa-Java
 
-Skills: -> ***SoftSkills***: TeamPlayer  / Communication / Leadership / Adaptability  && ***HardSkills***: Linux / Git and GitHub / Computer Networks  / Java / Golang / C
+Skills: -> ***SoftSkills***: TeamPlayer  / Communication / Leadership / Adaptability  && ***HardSkills***: Linux / Git and GitHub / Computer Networks  / Docker / Java / Golang / YAML / C
 
 - 🔭 I’m currently working on OpenSource Contributions. 
 - 🌱 I’m currently learning DevOps and Dsa-Java. 
