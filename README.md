@@ -33,4 +33,3 @@ Skills: -> ***SoftSkills***: TeamPlayer  / Communication / Leadership / Adaptabi
 </tr>
 
 ---
-![Profile views](https://gpvc.arturio.dev/VishwaS-22)    
