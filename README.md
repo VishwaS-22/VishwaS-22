@@ -2,13 +2,13 @@
 #### 20 Years Old Student, Looking for DevOps/Cloud technology related roles.
 DevOps Enthusiast || OpenSource Contributor || LearningInPublic || BuildingInPublic || Learning Dsa-Java
 
-Skills: -> ***SoftSkills***: TeamPlayer  / Communication / Leadership / Adaptability  && ***HardSkills***: Linux / Git and GitHub / Computer Networks / Docker / AWS / Ansible / Terraform / Java / Golang / YAML 
+Skills: -> **HardSkills***: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Java / Golang / YAML && **SoftSkills**: TeamPlayer  / Communication / Leadership / Adaptability.
 
-- 🔭 I’m currently working on OpenSource Contributions. 
-- 🌱 I’m currently learning DevOps and Dsa-Java. 
+- 🔭 I’m working on DevOps and AWS Projects. 
+- 🌱 I’m currently learning Java and Golang. 
 - 👯 I’m looking to collaborate on DevOps related Projects. 
 - 🤔 I’m looking for help with my Coding Journey. 
-- 💬 Ask me about DevOps and Resource for learning. 
+- 💬 Ask me about DevOps and AWS Cloud and Resource for learning. 
 - 📫 How to reach me: vishwa20042003@gmail.com 
 
 ---
