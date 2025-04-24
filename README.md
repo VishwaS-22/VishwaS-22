@@ -3,10 +3,10 @@
 
 Skills: -> **HardSkills**: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Java / Golang / YAML && **SoftSkills**: TeamPlayer  / Communication / Leadership / Adaptability.
 
-- 🔭 I’m working on DevOps and AWS Projects. 
-- 🌱 I’m currently learning Java and Golang. 
+- 🔭 I’m working on DevOps and Cloud Projects. 
+- 🌱 I’m currently learning Golang and Python. 
 - 👯 I’m looking to collaborate on DevOps related Projects.  
-- 💬 Ask me about DevOps and AWS Cloud and Resource for learning. 
+- 💬 Ask me about DevOps,Cloud and Resource for learning. 
 - 📫 How to reach me: vishwa20042003@gmail.com 
 
 ---
