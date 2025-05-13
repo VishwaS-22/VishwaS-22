@@ -6,9 +6,9 @@ Skills: -> **HardSkills**: Linux / Git and GitHub / Docker / Ansible / Terraform
 - 🔭 I’m working on DevOps and Cloud Projects. 
 - 🌱 I’m currently learning Golang and Python. 
 - 👯 I’m looking to collaborate on DevOps related Projects.  
-- 💬 Ask me about DevOps,Cloud and Resource for learning. 
+- 💬 Ask me about DevOps, Cloud and Resource for learning. 
 - 📫 How to reach me: vishwa20042003@gmail.com 
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VishwaS-22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwa-s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Vishwask_22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@Vishwa22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](https://hashnode.com/@Vishwa22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/s_vishwa/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishwa-s/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Vishwask_22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@Vishwa22)
